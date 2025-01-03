@@ -1,0 +1,7 @@
+C:\Users\Ksenia\source\repos\HedgehogMeetings\obj\Debug\HedgehogMeetings.csproj.AssemblyReference.cache
+C:\Users\Ksenia\source\repos\HedgehogMeetings\obj\Debug\HedgehogMeetings.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\source\repos\HedgehogMeetings\bin\Debug\HedgehogMeetings.exe.config
+C:\Users\Ksenia\source\repos\HedgehogMeetings\bin\Debug\HedgehogMeetings.exe
+C:\Users\Ksenia\source\repos\HedgehogMeetings\bin\Debug\HedgehogMeetings.pdb
+C:\Users\Ksenia\source\repos\HedgehogMeetings\obj\Debug\HedgehogMeetings.exe
+C:\Users\Ksenia\source\repos\HedgehogMeetings\obj\Debug\HedgehogMeetings.pdb
